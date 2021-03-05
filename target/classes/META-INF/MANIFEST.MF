@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: rajpsing
+Build-Jdk: 10.0.1
+Implementation-Title: aws-hello-world-rest-api-pipeline
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.in28minutes.rest.webservices
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/08-aws-hello-world-rest-api-pipeline
+Created-By: Maven Integration for Eclipse
+
